@@ -8,7 +8,6 @@
         </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
-          <root url="file://$MODULE_DIR$/target/friendspammer-web/WEB-INF/lib" relative="/WEB-INF/lib" />
         </webroots>
       </configuration>
     </facet>
